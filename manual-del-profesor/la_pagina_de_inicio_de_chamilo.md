@@ -1,13 +1,12 @@
-# La página de inicio de Chamilo
+# A página inicial do Chamilo
 
-La de inicio es la primera página visible. Contiene el formulario de acceso y algunos otros elementos importantes:
+A página inicial é a primeira página visível. Ele contém o formulário de login e alguns outros elementos importantes:
 
-![](../.gitbook/assets/home_custom%20%281%29.jpg)_Ilustración 7: Página de inicio con anuncios y contenidos en cursos populares_
+![](../.gitbook/assets/home_custom%20%281%29.jpg)_Ilustração 7: Página inicial com anúncios e conteúdo em cursos populares_
 
-* Una vez que el usuario y la contraseña han sido registrados, la conexión es directa \( el administrador asigna permisos a los usuarios dependiendo de la configuración de la plataforma\).
-* Es posible registrarse en la plataforma utilizando un sencillo formulario \(_¡**Reg**í**str**ate!_\).
-* En caso de que olvides tu contraseña, puedes generar una nueva fácilmente \(utilizando el enlace de _¿Ha olvidado su contraseña?_\).
-* A través del enlace _For\_\_um_ del módulo _General_, se accede al foro oficial de la Comunidad Chamilo.
+* Uma vez registrado o usuário e a senha, a conexão é direta (o administrador atribui permissões aos usuários, dependendo da configuração da plataforma).
+* É possível registrar-se na plataforma usando um formulário simples \(_¡**Reg**í**str**asse!_\).
+* Caso você esqueça sua senha, pode facilmente gerar uma nova \ (usando o link _Esqueceu sua senha? _ \).
+* Através do link _Para \ _ \ _ um_ do módulo _Geral_, você pode acessar o fórum oficial da Comunidade Chamilo.
 
-> **Nota** : Para ver los cursos de acceso restringido, el alumno debe estar registrado en la plataforma e inscrito por el profesor, a través de la **lista de usuarios del curso**.
-
+> **Nota** : Para visualizar os cursos de acesso restrito, o aluno deve estar cadastrado na plataforma e cadastrado pelo professor, por meio da ** lista de usuários do curso **.
