@@ -1,4 +1,4 @@
-# La página de inicio de Chamilo
+# Página inicial do Chamilo
 
 La de inicio es la primera página visible. Contiene el formulario de acceso y algunos otros elementos importantes:
 
